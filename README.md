@@ -8,3 +8,5 @@ PTPTN (Perbadanan Tabung Pendidikan Tinggi Nasional) is a study loan for Malaysi
 
 ### Note:
 Insert your username and password at _username_here_ & _password_here_ before running.
+
+##### _*HEADLESS VERSION WILL NOT SHOW ANY UI (BROWSER WILL NOT BE SHOWN)_
