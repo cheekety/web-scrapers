@@ -1,3 +1,3 @@
 ### popcat clicker
 
-Script to auto click popcat on https://popcat.click
+Script to spam-click popcat on https://popcat.click
