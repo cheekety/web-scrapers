@@ -2,7 +2,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-webdriverPath = 'C:/Users/yeock/Documents/python/web-scraping/driver/geckodriver.exe'
+webdriverPath = ''
 url = "https://www.mudah.my/malaysia/computers-and-accessories-for-sale?q=gpu"
 
 def crawl(webdriverPath, url):
