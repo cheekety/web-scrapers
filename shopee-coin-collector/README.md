@@ -1,3 +1,6 @@
+# <TODO: UPDATE CRAWLER>
+Shopee has changed webpage structure. Updates to the crawler are needed.
+
 # Shopee Coin Collector Webcrawler
 
 ### Background:
